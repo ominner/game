@@ -1,4 +1,4 @@
 game
 ====
 
-Home folder
+Home folder of all files, here you can find what you need.
